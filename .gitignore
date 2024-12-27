@@ -1,0 +1,60 @@
+# Cache and build folders
+.cache/
+build/
+
+# clangd generated file
+compile_commands.json
+
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# Dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Static libraries
+*.a
+*.lib
+
+# Generated files (e.g., from configure scripts)
+*.lo
+*.la
+*.loT
+*.map
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Dependency files
+*.d
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.code-workspace
+*.ncb
+*.sdf
+*.suo
+*.user
+*.project
+*.cproject
+
+# Backup files
+*~
+
+# Generated documentation
+docs/
